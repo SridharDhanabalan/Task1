@@ -1,0 +1,30 @@
+.Parent {
+    width: 360px;
+    height: 310px;
+    position: center;
+    margin-top: -320px;
+    padding: 12.7px 29.5px 109.5px 93.5px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #fff;
+  }
+
+  .Toll{
+    position: left;
+    margin-left: 70%;
+  }
+
+  .Pic{
+    position: center;
+    margin-top: -80px;
+    margin-right: 55px;
+    }
+
+.Book{
+    position: center;
+    width: 65%;
+    border-radius: 2px;
+    background-color: #fbd13e;
+    margin-top: 50px;
+    margin-right: 50px ;
+}
